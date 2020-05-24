@@ -5,6 +5,6 @@ Keylogger Program is computer monitoring system that allows you to record entire
 
 
 Create a Project Keylogger in any of the Python IDE
-set IPs as per your Reqmt
+set email and Password as per your email.Allow less security app access to your email account
 
 run python test.py
