@@ -8,3 +8,8 @@ Create a Project Keylogger in any of the Python IDE
 set email and Password as per your email.Allow less security app access to your email account
 
 run python test.py
+
+
+
+
+In the Current Project We will deliver this Payload in victim PC and Will make it persistent
